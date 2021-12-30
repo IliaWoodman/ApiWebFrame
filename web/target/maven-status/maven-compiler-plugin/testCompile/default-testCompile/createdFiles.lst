@@ -1,0 +1,7 @@
+common/Waits.class
+common/Steps.class
+pages/RegistrationPage.class
+pages/BasePage.class
+pages/MainPage.class
+CucumberTest.class
+common/MyDriverService.class
